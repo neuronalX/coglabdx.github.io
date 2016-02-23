@@ -1,2 +1,2 @@
 # coglabdx.github.io
-Site web du coglab bordelais. 
+Site web (de rêve !) du coglab bordelais. 
